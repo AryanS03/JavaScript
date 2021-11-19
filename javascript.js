@@ -10,12 +10,12 @@
 // -------------------------------------------------------------
 
 //JS String length
-// let text = "heheeeeeeeeeeeeeeeeeeeeeeeeeee";
-// console.log(text.length);
+    // let text = "heheeeeeeeeeeeeeeeeeeeeeeeeeee";
+    // console.log(text.length);
 
     // let text = "hehe it's me SukhOPGod.";
 // JS Slice Method
-// console.log(text.slice(5, 12));
+    // console.log(text.slice(5, 12));
     // console.log(text.slice(-10));
 
 //JS Substring Method
